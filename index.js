@@ -121,4 +121,4 @@ client.on('guildBanAdd', async (ban) => {
 });
 
 // ضع التوكن الجديد الخاص بك هنا
-client.login('MTUwNzQwMTkzOTY0NDg0NjM1MA.G1r7xR.pgOzrR3jh4ZfqdTlIyjbz2LGF_0fVvNBkGNvos');
+client.login('');
